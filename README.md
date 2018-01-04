@@ -1,1 +1,1 @@
-# ReduxSimpleStarter-master
+# TeamReactDemo
